@@ -1,0 +1,22 @@
+## A list of all the adlist used in a pi-hole setup
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://adaway.org/hosts.txt
+https://blocklistproject.github.io/Lists/ads.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts	
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt	
+https://v.firebog.net/hosts/RPiList-Malware.txt	
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser	
+https://someonewhocares.org/hosts/hosts	
+https://www.malwaredomainlist.com/hostslist/hosts.txt	
+https://phishing.army/download/phishing_army_blocklist_extended.txt	
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt	
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts	
+https://v.firebog.net/hosts/Admiral.txt	
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt	
+https://v.firebog.net/hosts/Easylist.txt
